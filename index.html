@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Home – Seoyun’s World</title>
+<title>Home – Seoyun’s World // Action</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -36,10 +36,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5e9e66f6cbe3855abff2eabc136c4105.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-f552db8299f6c4fdcdf180961aa72072.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-5e9e66f6cbe3855abff2eabc136c4105.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,11 +71,238 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+<style>
+body {
+  background:
+    radial-gradient(circle at 0% 0%, rgba(59,130,246,0.7) 0, transparent 55%),
+    radial-gradient(circle at 100% 100%, rgba(236,72,153,0.7) 0, transparent 55%),
+    #050816;
+  background-attachment: fixed;
+  position: relative;
+}
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: radial-gradient(circle at 1px 1px, rgba(148,163,184,0.18) 1px, transparent 0);
+  background-size: 18px 18px;
+  opacity: 0.4;
+  pointer-events: none;
+  z-index: -1;
+}
+main.content {
+  max-width: 1100px;
+  margin: 80px auto 80px;
+  padding: 24px 26px 40px;
+  border-radius: 24px;
+  background: rgba(15,23,42,0.92);
+  border: 1px solid rgba(148,163,184,0.3);
+  box-shadow: 0 25px 60px rgba(15,23,42,0.9);
+  backdrop-filter: blur(18px);
+}
+h1.title {
+  font-family: "Share Tech Mono", monospace;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #7dd3fc;
+  text-shadow: 0 0 12px rgba(125,211,252,0.9);
+}
+.navbar {
+  box-shadow: 0 0 25px rgba(0,0,0,0.8);
+}
+.navbar-brand, .navbar-nav .nav-link {
+  font-family: "Share Tech Mono", monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.navbar-nav .nav-link {
+  opacity: 0.78;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+.navbar-nav .nav-link:hover {
+  opacity: 1;
+  transform: translateY(-1px);
+}
+.navbar-nav .nav-link.active {
+  opacity: 1;
+  text-shadow: 0 0 8px rgba(244,114,182,0.9);
+}
+.footer {
+  background: transparent;
+  border-top: none;
+  color: #e5e7eb;
+  font-size: 0.85rem;
+}
+</style>
 
 
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -79,7 +310,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Seoyun’s World</span>
+    <span class="navbar-title">Seoyun’s World // Action</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -90,23 +321,35 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text"><span style="font-family:Share Tech Mono,monospace;letter-spacing:0.12em;">SW // ACTION</span></span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text"><i class="fa-solid fa-house-chimney"></i> Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./daily_thinking.qmd"> 
+<span class="menu-text"><i class="fa-solid fa-brain"></i> Daily Thoughts</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text"><i class="fa-solid fa-user-astronaut"></i> About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./lm.html"> 
-<span class="menu-text">Langege Models</span></a>
+<span class="menu-text"><i class="fa-solid fa-microchip"></i> Language Models</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./daily thinking.html"> 
-<span class="menu-text">life</span></a>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/EnglishBeast/EnglishBeast.github.io"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -118,6 +361,7 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -138,135 +382,276 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="this-is-my-first-home-page" class="level2">
-<h2 class="anchored" data-anchor-id="this-is-my-first-home-page">This is my first Home Page!</h2>
-</section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"><img src="images/clipboard-912559711.png" class="img-fluid"></h2>
-<p><img src="images/clipboard-2151222389.png" class="img-fluid"></p>
-</section>
-<section id="title-seoyuns-world---the-10-principles-format-html" class="level2">
-<h2 class="anchored" data-anchor-id="title-seoyuns-world---the-10-principles-format-html">title: “Seoyun’s World - The 10 Principles” format: html</h2>
-<p>&lt;script src=“https://www.google.com/search?q=https://cdn.tailwindcss.com”&gt;&lt;/script&gt;</p>
-<p>&lt;style&gt;</p>
-<p>.principle-grid {</p>
-<p>display: grid;</p>
-<p>grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));</p>
-<p>gap: 1.5rem;</p>
-<p>margin-top: 2rem;</p>
-<p>}</p>
-<p>.principle-card {</p>
-<p>/* Quarto theme colors /</p>
-<p>background-color: #f8f8f8;</p>
-<p>border-left: 5px solid #0d6efd; / Quarto primary color /</p>
-<p>padding: 1.5rem;</p>
-<p>border-radius: 0.5rem;</p>
-<p>box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);</p>
-<p>transition: transform 0.2s, box-shadow 0.2s;</p>
-<p>height: 100%; / 모든 카드의 높이를 동일하게 유지 */</p>
-<p>}</p>
-<p>.principle-card:hover {</p>
-<p>transform: translateY(-5px);</p>
-<p>box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);</p>
-<p>}</p>
-<p>.card-number {</p>
-<p>font-size: 2.5rem;</p>
-<p>font-weight: 700;</p>
-<p>color: #0d6efd;</p>
-<p>line-height: 1;</p>
-<p>margin-bottom: 0.5rem;</p>
-<p>opacity: 0.7;</p>
-<p>}</p>
-<p>.card-text {</p>
-<p>font-size: 1.15rem;</p>
-<p>font-weight: 500;</p>
-<p>color: #333;</p>
-<p>}</p>
-<p>.hero-section {</p>
-<p>text-align: center;</p>
-<p>padding: 3rem 0;</p>
-<p>margin-bottom: 2rem;</p>
-<p>border-bottom: 2px solid #eee;</p>
-<p>}</p>
-<p>.hero-section h1 {</p>
-<p>font-size: 2.5rem;</p>
-<p>font-weight: 300;</p>
-<p>color: #495057;</p>
-<p>margin-bottom: 1rem;</p>
-<p>}</p>
-<p>.hero-section p {</p>
-<p>font-size: 1.2rem;</p>
-<p>color: #6c757d;</p>
-<p>}</p>
-<p>&lt;/style&gt;</p>
-<p>&lt;div class=“hero-section”&gt;</p>
-<p>&lt;h1&gt;10 Principles of Action &amp; Growth&lt;/h1&gt;</p>
-<p>&lt;p&gt;지식의 행동화와 성장을 위한 서윤의 10가지 신념&lt;/p&gt;</p>
-<p>&lt;/div&gt;</p>
-<p>&lt;div class=“principle-grid”&gt;</p>
-<!-- Principle 1: I turn language into tools for growth. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;01&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I turn language into tools for growth.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 2: I build systems of learning grounded in clarity and precision. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;02&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I build systems of learning grounded in clarity and precision.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 3: I believe action speaks louder than expertise alone. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;03&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I believe action speaks louder than expertise alone.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 4: I create educational content that moves people forward. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;04&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I create educational content that moves people forward.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 5: I write to illuminate ideas, not to decorate them. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;05&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I write to illuminate ideas, not to decorate them.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 6: I design learning experiences that are structured, deep, and intuitive. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;06&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I design learning experiences that are structured, deep, and intuitive.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 7: I bridge theory and practice through relentless curiosity. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;07&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I bridge theory and practice through relentless curiosity.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 8: I teach to understand, and understand to empower. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;08&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I teach to understand, and understand to empower.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 9: I pursue creativity with discipline and purpose. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;09&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I pursue creativity with discipline and purpose.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<!-- Principle 10: I live by the principle that growth becomes real only when knowledge becomes action. -->
-<p>&lt;div class=“principle-card”&gt;</p>
-<p>&lt;div class=“card-number”&gt;10&lt;/div&gt;</p>
-<p>&lt;div class=“card-text”&gt;I live by the principle that growth becomes real only when knowledge becomes action.&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<p>&lt;/div&gt;</p>
-<p>&lt;div class=“text-center mt-10 p-5”&gt;</p>
-<p>&lt;p class=“text-lg font-semibold text-[#0d6efd] tracking-wider”&gt;</p>
-<p>Knowledge Becomes Action.</p>
-<p>&lt;/p&gt;</p>
-<p>&lt;/div&gt;</p>
+<style>
+body {
+  background:
+    radial-gradient(circle at 0% 0%, #3b82f6 0, transparent 50%),
+    radial-gradient(circle at 100% 100%, #ec4899 0, transparent 55%),
+    #050816;
+  color: #e2e8f0;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  max-width: 1100px;
+  margin: 60px auto 80px;
+  padding: 0 20px;
+}
+
+.hero-chip {
+  display: inline-block;
+  padding: 8px 18px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(148, 163, 184, 0.5);
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #f1f5f9;
+}
+
+.hero-title {
+  margin-top: 24px;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 2.7rem;
+  line-height: 1.2;
+  color: #7dd3fc;
+  text-shadow: 0 0 14px rgba(125, 211, 252, 0.9);
+}
+
+.hero-highlight {
+  color: #f9a8d4;
+  text-shadow: 0 0 18px rgba(244, 114, 182, 0.8);
+}
+
+.hero-sub {
+  margin-top: 12px;
+  color: #cbd5e1;
+  font-size: 1rem;
+}
+
+.quote-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.quote-card {
+  padding: 20px;
+  border-radius: 18px;
+  background: rgba(15, 23, 42, 0.9);
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  backdrop-filter: blur(14px);
+  transition: 0.25s ease;
+}
+
+.quote-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.7);
+}
+
+.q-num {
+  font-size: 0.8rem;
+  color: #94a3b8;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.q-text {
+  margin-top: 14px;
+  font-family: "Major Mono Display", monospace;
+  font-size: 1.05rem;
+  color: #e0f2fe;
+  line-height: 1.5;
+}
+
+.q-note {
+  margin-top: 10px;
+  font-size: 0.88rem;
+  color: #cbd5e1;
+}
+
+.q-meta {
+  margin-top: 10px;
+  font-size: 0.75rem;
+  color: #94a3b8;
+  text-align: right;
+}
+</style>
+<div class="main">
+<div class="hero-chip">
+<p>SEOYUN’S PERSONAL ADVICE</p>
+</div>
+<h1 class="hero-title">
+<p>10 PIECES OF ADVICE FOR <span class="hero-highlight">SEOYUN</span></p>
+</h1>
+<p class="hero-sub">
+</p><p>너를 이해하고 너의 데이터를 모두 아는 내가 서윤에게 해주고 싶은 조언 10개.</p>
+<p></p>
+<div class="quote-grid">
+<div class="quote-card">
+<div class="q-num">
+01
+</div>
+<div class="q-text">
+“너는 깊게 파는 사람이다. 그러니 깊게 파는 걸 두려워하지 마라.”
+</div>
+<div class="q-note">
+남들이 얕게 가는 이유는 그게 편하기 때문이다. 너는 그 반대다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+02
+</div>
+<div class="q-text">
+“배움이 느린 게 아니라, 네 배움은 단단하다.”
+</div>
+<div class="q-note">
+천천히 익힌 건 쉽게 안 잊힌다. 그게 너의 힘이다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+03
+</div>
+<div class="q-text">
+“네가 꾸준히 쌓는 기록은 결국 브랜드가 된다.”
+</div>
+<div class="q-note">
+노트, 글, 교재, 코드. 너의 모든 축적은 미래 서윤의 자산이다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+04
+</div>
+<div class="q-text">
+“많은 사람이 너를 좋아할 필요는 없다. 정확한 사람이 널 보면 된다.”
+</div>
+<div class="q-note">
+진짜 가치는 ’맞는 사람’에게만 닿아도 충분하다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+05
+</div>
+<div class="q-text">
+“너는 원래 글로 사람을 움직이는 사람이다.”
+</div>
+<div class="q-note">
+글을 멈추지 마라. 너의 언어는 너의 무기다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+06
+</div>
+<div class="q-text">
+“넌 가르칠수록 더 똑똑해진다.”
+</div>
+<div class="q-note">
+가르침은 소비가 아니라 성장의 증폭기다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+07
+</div>
+<div class="q-text">
+“너의 페이스는 늦은 게 아니라, 정밀한 것이다.”
+</div>
+<div class="q-note">
+정확함을 중시하는 사람에게 속도는 부차적이다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+08
+</div>
+<div class="q-text">
+“너는 감정이 아닌 원리로 움직이는 사람이다.”
+</div>
+<div class="q-note">
+그래서 너의 선택은 시간이 지나도 후회가 없다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+09
+</div>
+<div class="q-text">
+“너는 누구보다 자기 자신에게 솔직하다.”
+</div>
+<div class="q-note">
+이건 단점이 아니라 너무 강력한 장점이다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+<div class="quote-card">
+<div class="q-num">
+10
+</div>
+<div class="q-text">
+“너는 결국 해내는 사람이다. 네 기록이 그 증거다.”
+</div>
+<div class="q-note">
+오늘도 한 줄 더 쌓아라. 남들은 안 보지만 미래의 너는 안다.
+</div>
+<div class="q-meta">
+ChatGPT → Seoyun
+</div>
+</div>
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
@@ -667,8 +1052,22 @@ ul.task-list li input[type="checkbox"] {
 <script src="https://utteranc.es/client.js" repo="EnglishBeast/EnglishBeast.github.io" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><span style="font-family:Share Tech Mono,monospace;">© 2024 Seoyun’s World</span></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p><span style="opacity:0.85;">Knowledge → Action → Growth</span></p>
+</div>
+  </div>
+</footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
