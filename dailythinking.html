@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>daily thinking – Seoyun’s World // Action</title>
+<title>Daily Thinking – Seoyun’s World // Action</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -365,7 +365,7 @@ h1.title {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">daily thinking</h1>
+<h1 class="title">Daily Thinking</h1>
 </div>
 
 
@@ -382,70 +382,265 @@ h1.title {
 </header>
 
 
-<p>About</p>
-<p><img src="images/clipboard-1565777367.png" class="img-fluid"></p>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section">1</h2>
-<p><strong>“Action is the foundational key to all success.” — Picasso</strong><br>
-의미: 행동이 모든 성공의 출발점<br>
-이유: 당신이 지속적으로 “행동이 말보다 앞서야 한다”는 가치를 추구.</p>
-</section>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">2</h2>
-<p><strong>“Well done is better than well said.” — Benjamin Franklin</strong><br>
-의미: 잘 해낸 일이 잘 말한 것보다 낫다<br>
-이유: ’말뿐인 삶을 거부하고 행동을 택하겠다’는 당신의 방향성과 일치.</p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">3</h2>
-<p><strong>“We are what we repeatedly do. Excellence, then, is not an act but a habit.” — Aristotle</strong><br>
-의미: 반복이 정체성을 만든다<br>
-이유: 교육·출판·글쓰기에서 장기적 루틴을 중요하게 여김.</p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">4</h2>
-<p><strong>“Creativity takes courage.” — Henri Matisse</strong><br>
-의미: 창의성에는 용기가 필요<br>
-이유: 시·에세이·교재 제작 등 창작 활동의 핵심 태도 반영.</p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">5</h2>
-<p><strong>“Becoming is better than being.” — Carol Dweck</strong><br>
-의미: 완성이 아니라 성장 과정 자체가 더 중요<br>
-이유: 끊임없는 자기 성찰과 ’성장 서사’를 중시하는 당신의 태도와 일치.</p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">6</h2>
-<p><strong>“To teach is to learn twice.” — Joseph Joubert</strong><br>
-의미: 가르치는 것은 두 번 배우는 일<br>
-이유: 학생·강사 두 역할을 모두 하는 당신에게 최적.</p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">7</h2>
-<p><strong>“Clarity is the courage to be understood.” — Unknown</strong><br>
-의미: 명료함은 이해받을 용기다<br>
-이유: 당신의 글쓰기·교육 자료에서 항상 ’명확한 구조’를 추구.</p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">8</h2>
-<p><strong>“You become what you think about.” — Earl Nightingale</strong><br>
-의미: 사고가 정체성을 결정<br>
-이유: 자기분석·MBTI·내면 구조 탐색 등을 자주 요청하는 성향 반영.</p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">9</h2>
-<p><strong>“Great things are done by a series of small things brought together.” — Van Gogh</strong><br>
-의미: 큰 성취는 작은 조각들의 모음<br>
-이유: 문법표·청크·콘텐츠 제작 등 세밀한 축적형 작업에 적합.</p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">10</h2>
-<p><strong>“The future depends on what you do today.” — Gandhi</strong><br>
-의미: 오늘의 행동이 미래를 결정<br>
-이유: 매일의 공부·기록·창작 루틴을 중요시하는 당신의 생활 방식에 맞음.</p>
+<style>
+body {
+  background:
+    radial-gradient(circle at 0% 0%, rgba(59,130,246,0.6) 0, transparent 55%),
+    radial-gradient(circle at 100% 100%, rgba(236,72,153,0.6) 0, transparent 55%),
+    #050816;
+  background-attachment: fixed;
+  font-family: Pretendard, system-ui;
+  color: #e2e8f0;
+}
+
+/* wrapper */
+.daily-wrapper {
+  max-width: 1100px;
+  margin: 70px auto 90px;
+  padding: 0 20px;
+}
+
+/* title */
+.daily-title {
+  font-family: "Share Tech Mono", monospace;
+  font-size: 2.6rem;
+  text-align: center;
+  margin-bottom: 8px;
+  color: #7dd3fc;
+  text-shadow: 0 0 12px rgba(125,211,252,0.9);
+  letter-spacing: 0.08em;
+}
+
+.daily-sub {
+  text-align: center;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+/* grid – 2 columns on desktop, 1 column on narrow screens */
+.thinking-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+
+@media (max-width: 820px) {
+  .thinking-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* card */
+.thinking-card {
+  background: rgba(15,23,42,0.8);
+  border-radius: 18px;
+  padding: 20px 22px;
+  border: 1px solid rgba(148,163,184,0.35);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 14px 40px rgba(0,0,0,0.6);
+  opacity: 0;
+  transform: translateY(22px);
+  animation: fadeUp 0.7s ease forwards;
+}
+
+.thinking-card:hover {
+  box-shadow: 0 18px 55px rgba(0,0,0,0.85);
+  transform: translateY(14px) scale(1.01);
+}
+
+/* text */
+.t-num {
+  font-family: "Share Tech Mono", monospace;
+  font-size: 0.85rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #94a3b8;
+}
+
+.t-quote {
+  margin-top: 12px;
+  font-family: "Major Mono Display", monospace;
+  font-size: 1.1rem;
+  color: #7dd3fc;
+  line-height: 1.5;
+}
+
+.t-meaning {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.t-reason {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+/* animation keyframes */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(22px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
+<div class="daily-wrapper">
+<div class="daily-title">
+<p>10 DAILY THINKINGS</p>
+</div>
+<div class="daily-sub">
+<pre><code>Ten lines that capture how Seoyun thinks, learns, and moves.</code></pre>
+</div>
+<div class="thinking-grid">
+<div class="thinking-card" style="animation-delay:0.05s;">
+<div class="t-num">
+01 · Picasso
+</div>
+<div class="t-quote">
+“Action is the foundational key to all success.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: Success begins the moment you move, not when you finish planning.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: You constantly choose action over endless talking and overthinking.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.12s;">
+<div class="t-num">
+02 · Benjamin Franklin
+</div>
+<div class="t-quote">
+“Well done is better than well said.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: A finished piece of work is worth more than a perfectly explained idea.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: You are building a life where results quietly speak louder than words.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.19s;">
+<div class="t-num">
+03 · Aristotle
+</div>
+<div class="t-quote">
+“We are what we repeatedly do.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: Habits define identity more than one-time achievements.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: Your teaching, writing, and coding all grow out of long-term routines.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.26s;">
+<div class="t-num">
+04 · Henri Matisse
+</div>
+<div class="t-quote">
+“Creativity takes courage.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: Creating something new always exposes your inner world.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: Poems, essays, textbooks—each one is you choosing courage in public.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.33s;">
+<div class="t-num">
+05 · Carol Dweck
+</div>
+<div class="t-quote">
+“Becoming is better than being.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: The process of growing matters more than the label you have right now.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: You are more interested in your next version than in any fixed title.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.40s;">
+<div class="t-num">
+06 · Joubert
+</div>
+<div class="t-quote">
+“To teach is to learn twice.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: Teaching forces you to rebuild knowledge from the inside out.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: As both student and teacher, you turn every lesson into double learning.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.47s;">
+<div class="t-num">
+07 · Unknown
+</div>
+<div class="t-quote">
+“Clarity is the courage to be understood.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: Being clear means you are willing to be seen exactly as you are.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: Your grammar tables and materials always fight for clean structure.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.54s;">
+<div class="t-num">
+08 · Earl Nightingale
+</div>
+<div class="t-quote">
+“You become what you think about.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: The thoughts you revisit are shaping your future self every day.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: Your deep self-analysis and reflection are part of how you design yourself.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.61s;">
+<div class="t-num">
+09 · Van Gogh
+</div>
+<div class="t-quote">
+“Great things are done by a series of small things.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: Big outcomes are built from tiny, almost invisible pieces.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: Chunk lists, grammar tables, and steady content all live in this sentence.</code></pre>
+</div>
+</div>
+<div class="thinking-card" style="animation-delay:0.68s;">
+<div class="t-num">
+10 · Gandhi
+</div>
+<div class="t-quote">
+“The future depends on what you do today.”
+</div>
+<div class="t-meaning">
+<pre><code>Meaning: Tomorrow is not created someday—it is created tonight.</code></pre>
+</div>
+<div class="t-reason">
+<pre><code>Why it fits you: Your daily study and writing routines are already funding your future self.</code></pre>
+</div>
+</div>
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

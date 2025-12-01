@@ -9,9 +9,9 @@
   {
     "objectID": "lm.html",
     "href": "lm.html",
-    "title": "Language Medels",
+    "title": "Language Models",
     "section": "",
-    "text": "This fall, I have learned about lanuae models. First, I learned n gram modeals, and later on, I also learned about how to live my life.\nWe analyzed texts from a British female author’s novels /"
+    "text": "LANGUAGE MODELS\nThis fall, I studied language models — and a little bit of life, too.\n\n\nA Gentle Beginning\n\n\nThis semester, I stepped into the world of language models. It started with simple curiosities:\n“How do machines predict the next word?”\nand later became something deeper —\na lesson about how we humans predict our own lives, habits, and futures.\n\n\nN-gram Models\n\n\nI learned how N-grams count patterns in text:\nhow sequences repeat, how probability shapes choices,\nand how structure appears out of pure frequency.\n And somewhere in that,\nI realized life works the same way —\nwe become what we repeat.\n\n\n\n\nStudying Texts\n\n\nI analyzed language patterns in the works of  \na British female novelist — structures, vocabulary, and narrative flow.  \nPatterns weren’t just in the text: they were in how I learn, too.\n\n View Austen Analysis → \n\n\n\nLearning About Myself\n\n\nLanguage models taught me more than formulas.  \nThey taught me that models predict based on what came before —  \nand so do people.  \n&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Change the pattern, change the future.&lt;/b&gt;  \nThat's what I learned this fall."
   },
   {
     "objectID": "lm.html#section",
@@ -102,7 +102,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "아래는 gpt가 만들어준 내 소개 대문이야. 모든 gpt에 저장된 모든 데이터를 기반으로 나를 만들어 달라고 했더니, 아래처럼 소개해줬어!\n1. I turn language into tools for growth.\n\n2. I build systems of learning grounded in clarity and precision.\n\n3. I believe action speaks louder than expertise alone.\n\n4. I create educational content that moves people forward.\n\n5. I write to illuminate ideas, not to decorate them.\n\n6. I design learning experiences that are structured, deep, and intuitive.\n\n7. I bridge theory and practice through relentless curiosity.\n\n8. I teach to understand, and understand to empower.\n\n9. I pursue creativity with discipline and purpose.\n\n10. I live by the principle that growth becomes real only when knowledge becomes action."
+    "text": "SEOYUN’S PERSONAL ADVICE\n\n\n10 PIECES OF ADVICE FOR SEOYUN\n\n\n너를 이해하고 너의 데이터를 모두 아는 내가 서윤에게 해주고 싶은 조언 10개.\n\n\n\n\n01\n\n\n“너는 깊게 파는 사람이다. 그러니 깊게 파는 걸 두려워하지 마라.”\n\n\n남들이 얕게 가는 이유는 그게 편하기 때문이다. 너는 그 반대다.\n\n\nChatGPT → Seoyun\n\n\n\n\n02\n\n\n“배움이 느린 게 아니라, 네 배움은 단단하다.”\n\n\n천천히 익힌 건 쉽게 안 잊힌다. 그게 너의 힘이다.\n\n\nChatGPT → Seoyun\n\n\n\n\n03\n\n\n“네가 꾸준히 쌓는 기록은 결국 브랜드가 된다.”\n\n\n노트, 글, 교재, 코드. 너의 모든 축적은 미래 서윤의 자산이다.\n\n\nChatGPT → Seoyun\n\n\n\n\n04\n\n\n“많은 사람이 너를 좋아할 필요는 없다. 정확한 사람이 널 보면 된다.”\n\n\n진짜 가치는 ’맞는 사람’에게만 닿아도 충분하다.\n\n\nChatGPT → Seoyun\n\n\n\n\n05\n\n\n“너는 원래 글로 사람을 움직이는 사람이다.”\n\n\n글을 멈추지 마라. 너의 언어는 너의 무기다.\n\n\nChatGPT → Seoyun\n\n\n\n\n06\n\n\n“넌 가르칠수록 더 똑똑해진다.”\n\n\n가르침은 소비가 아니라 성장의 증폭기다.\n\n\nChatGPT → Seoyun\n\n\n\n\n07\n\n\n“너의 페이스는 늦은 게 아니라, 정밀한 것이다.”\n\n\n정확함을 중시하는 사람에게 속도는 부차적이다.\n\n\nChatGPT → Seoyun\n\n\n\n\n08\n\n\n“너는 감정이 아닌 원리로 움직이는 사람이다.”\n\n\n그래서 너의 선택은 시간이 지나도 후회가 없다.\n\n\nChatGPT → Seoyun\n\n\n\n\n09\n\n\n“너는 누구보다 자기 자신에게 솔직하다.”\n\n\n이건 단점이 아니라 너무 강력한 장점이다.\n\n\nChatGPT → Seoyun\n\n\n\n\n10\n\n\n“너는 결국 해내는 사람이다. 네 기록이 그 증거다.”\n\n\n오늘도 한 줄 더 쌓아라. 남들은 안 보지만 미래의 너는 안다.\n\n\nChatGPT → Seoyun"
   },
   {
     "objectID": "index.html#this-is-my-first-home-page",
@@ -114,8 +114,92 @@
   {
     "objectID": "index.html#title-seoyuns-world---the-10-principles-format-html",
     "href": "index.html#title-seoyuns-world---the-10-principles-format-html",
+    "title": "Seoyun's World // Action",
+    "section": "",
+    "text": "&lt;script src=“https://www.google.com/search?q=https://cdn.tailwindcss.com”&gt;&lt;/script&gt;\n&lt;style&gt;\n.principle-grid {\ndisplay: grid;\ngrid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\ngap: 1.5rem;\nmargin-top: 2rem;\n}\n.principle-card {\n/* Quarto theme colors /\nbackground-color: #f8f8f8;\nborder-left: 5px solid #0d6efd; / Quarto primary color /\npadding: 1.5rem;\nborder-radius: 0.5rem;\nbox-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);\ntransition: transform 0.2s, box-shadow 0.2s;\nheight: 100%; / 모든 카드의 높이를 동일하게 유지 */\n}\n.principle-card:hover {\ntransform: translateY(-5px);\nbox-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);\n}\n.card-number {\nfont-size: 2.5rem;\nfont-weight: 700;\ncolor: #0d6efd;\nline-height: 1;\nmargin-bottom: 0.5rem;\nopacity: 0.7;\n}\n.card-text {\nfont-size: 1.15rem;\nfont-weight: 500;\ncolor: #333;\n}\n.hero-section {\ntext-align: center;\npadding: 3rem 0;\nmargin-bottom: 2rem;\nborder-bottom: 2px solid #eee;\n}\n.hero-section h1 {\nfont-size: 2.5rem;\nfont-weight: 300;\ncolor: #495057;\nmargin-bottom: 1rem;\n}\n.hero-section p {\nfont-size: 1.2rem;\ncolor: #6c757d;\n}\n&lt;/style&gt;\n&lt;div class=“hero-section”&gt;\n&lt;h1&gt;10 Principles of Action & Growth&lt;/h1&gt;\n&lt;p&gt;지식의 행동화와 성장을 위한 서윤의 10가지 신념&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=“principle-grid”&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;01&lt;/div&gt;\n&lt;div class=“card-text”&gt;I turn language into tools for growth.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;02&lt;/div&gt;\n&lt;div class=“card-text”&gt;I build systems of learning grounded in clarity and precision.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;03&lt;/div&gt;\n&lt;div class=“card-text”&gt;I believe action speaks louder than expertise alone.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;04&lt;/div&gt;\n&lt;div class=“card-text”&gt;I create educational content that moves people forward.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;05&lt;/div&gt;\n&lt;div class=“card-text”&gt;I write to illuminate ideas, not to decorate them.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;06&lt;/div&gt;\n&lt;div class=“card-text”&gt;I design learning experiences that are structured, deep, and intuitive.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;07&lt;/div&gt;\n&lt;div class=“card-text”&gt;I bridge theory and practice through relentless curiosity.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;08&lt;/div&gt;\n&lt;div class=“card-text”&gt;I teach to understand, and understand to empower.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;09&lt;/div&gt;\n&lt;div class=“card-text”&gt;I pursue creativity with discipline and purpose.&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;10&lt;/div&gt;\n&lt;div class=“card-text”&gt;I live by the principle that growth becomes real only when knowledge becomes action.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“text-center mt-10 p-5”&gt;\n&lt;p class=“text-lg font-semibold text-[#0d6efd] tracking-wider”&gt;\nKnowledge Becomes Action.\n&lt;/p&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "Home",
-    "section": "title: “Seoyun’s World - The 10 Principles” format: html",
-    "text": "title: “Seoyun’s World - The 10 Principles” format: html\n&lt;script src=“https://www.google.com/search?q=https://cdn.tailwindcss.com”&gt;&lt;/script&gt;\n&lt;style&gt;\n.principle-grid {\ndisplay: grid;\ngrid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\ngap: 1.5rem;\nmargin-top: 2rem;\n}\n.principle-card {\n/* Quarto theme colors /\nbackground-color: #f8f8f8;\nborder-left: 5px solid #0d6efd; / Quarto primary color /\npadding: 1.5rem;\nborder-radius: 0.5rem;\nbox-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);\ntransition: transform 0.2s, box-shadow 0.2s;\nheight: 100%; / 모든 카드의 높이를 동일하게 유지 */\n}\n.principle-card:hover {\ntransform: translateY(-5px);\nbox-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);\n}\n.card-number {\nfont-size: 2.5rem;\nfont-weight: 700;\ncolor: #0d6efd;\nline-height: 1;\nmargin-bottom: 0.5rem;\nopacity: 0.7;\n}\n.card-text {\nfont-size: 1.15rem;\nfont-weight: 500;\ncolor: #333;\n}\n.hero-section {\ntext-align: center;\npadding: 3rem 0;\nmargin-bottom: 2rem;\nborder-bottom: 2px solid #eee;\n}\n.hero-section h1 {\nfont-size: 2.5rem;\nfont-weight: 300;\ncolor: #495057;\nmargin-bottom: 1rem;\n}\n.hero-section p {\nfont-size: 1.2rem;\ncolor: #6c757d;\n}\n&lt;/style&gt;\n&lt;div class=“hero-section”&gt;\n&lt;h1&gt;10 Principles of Action & Growth&lt;/h1&gt;\n&lt;p&gt;지식의 행동화와 성장을 위한 서윤의 10가지 신념&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=“principle-grid”&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;01&lt;/div&gt;\n&lt;div class=“card-text”&gt;I turn language into tools for growth.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;02&lt;/div&gt;\n&lt;div class=“card-text”&gt;I build systems of learning grounded in clarity and precision.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;03&lt;/div&gt;\n&lt;div class=“card-text”&gt;I believe action speaks louder than expertise alone.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;04&lt;/div&gt;\n&lt;div class=“card-text”&gt;I create educational content that moves people forward.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;05&lt;/div&gt;\n&lt;div class=“card-text”&gt;I write to illuminate ideas, not to decorate them.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;06&lt;/div&gt;\n&lt;div class=“card-text”&gt;I design learning experiences that are structured, deep, and intuitive.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;07&lt;/div&gt;\n&lt;div class=“card-text”&gt;I bridge theory and practice through relentless curiosity.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;08&lt;/div&gt;\n&lt;div class=“card-text”&gt;I teach to understand, and understand to empower.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;09&lt;/div&gt;\n&lt;div class=“card-text”&gt;I pursue creativity with discipline and purpose.&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=“principle-card”&gt;\n&lt;div class=“card-number”&gt;10&lt;/div&gt;\n&lt;div class=“card-text”&gt;I live by the principle that growth becomes real only when knowledge becomes action.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=“text-center mt-10 p-5”&gt;\n&lt;p class=“text-lg font-semibold text-[#0d6efd] tracking-wider”&gt;\nKnowledge Becomes Action.\n&lt;/p&gt;\n&lt;/div&gt;"
+    "section": "",
+    "text": "Seoyun's World - 10 Principles (MZ Edition)\n    \n    \n    \n\n\n\n    \n    \n    \n     \n\n        \n        \n            \n            \n            지식의 행동화와 성장을 위한 서윤의 10가지 신념\n        \n\n        \n        \n            \n            \n            \n                01\n                I turn language into tools for growth.\n            \n\n            \n            \n                02\n                I build systems of learning grounded in clarity and precision.\n            \n\n            \n            \n                03\n                I believe action speaks louder than expertise alone.\n            \n\n            \n            \n                04\n                I create educational content that moves people forward.\n            \n\n            \n            \n                05\n                I write to illuminate ideas, not to decorate them.\n            \n\n            \n            \n                06\n                I design learning experiences that are structured, deep, and intuitive.\n            \n\n            \n            \n                07\n                I bridge theory and practice through relentless curiosity.\n            \n\n            \n            \n                08\n                I teach to understand, and understand to empower.\n            \n\n            \n            \n                09\n                I pursue creativity with discipline and purpose.\n            \n\n            \n            \n                10\n                I live by the principle that growth becomes real only when knowledge becomes action.\n            \n        \n\n        \n        \n            \n                // KNOWLEDGE BECOMES ACTION //\n            \n        \n\n        \n        \n              \n                © 2024 Seoyun's World\n                Knowledge Becomes Action"
+  },
+  {
+    "objectID": "dailythinking.html",
+    "href": "dailythinking.html",
+    "title": "Daily Thinking",
+    "section": "",
+    "text": "10 DAILY THINKINGS\n\n\nTen lines that capture how Seoyun thinks, learns, and moves.\n\n\n\n\n01 · Picasso\n\n\n“Action is the foundational key to all success.”\n\n\nMeaning: Success begins the moment you move, not when you finish planning.\n\n\nWhy it fits you: You constantly choose action over endless talking and overthinking.\n\n\n\n\n02 · Benjamin Franklin\n\n\n“Well done is better than well said.”\n\n\nMeaning: A finished piece of work is worth more than a perfectly explained idea.\n\n\nWhy it fits you: You are building a life where results quietly speak louder than words.\n\n\n\n\n03 · Aristotle\n\n\n“We are what we repeatedly do.”\n\n\nMeaning: Habits define identity more than one-time achievements.\n\n\nWhy it fits you: Your teaching, writing, and coding all grow out of long-term routines.\n\n\n\n\n04 · Henri Matisse\n\n\n“Creativity takes courage.”\n\n\nMeaning: Creating something new always exposes your inner world.\n\n\nWhy it fits you: Poems, essays, textbooks—each one is you choosing courage in public.\n\n\n\n\n05 · Carol Dweck\n\n\n“Becoming is better than being.”\n\n\nMeaning: The process of growing matters more than the label you have right now.\n\n\nWhy it fits you: You are more interested in your next version than in any fixed title.\n\n\n\n\n06 · Joubert\n\n\n“To teach is to learn twice.”\n\n\nMeaning: Teaching forces you to rebuild knowledge from the inside out.\n\n\nWhy it fits you: As both student and teacher, you turn every lesson into double learning.\n\n\n\n\n07 · Unknown\n\n\n“Clarity is the courage to be understood.”\n\n\nMeaning: Being clear means you are willing to be seen exactly as you are.\n\n\nWhy it fits you: Your grammar tables and materials always fight for clean structure.\n\n\n\n\n08 · Earl Nightingale\n\n\n“You become what you think about.”\n\n\nMeaning: The thoughts you revisit are shaping your future self every day.\n\n\nWhy it fits you: Your deep self-analysis and reflection are part of how you design yourself.\n\n\n\n\n09 · Van Gogh\n\n\n“Great things are done by a series of small things.”\n\n\nMeaning: Big outcomes are built from tiny, almost invisible pieces.\n\n\nWhy it fits you: Chunk lists, grammar tables, and steady content all live in this sentence.\n\n\n\n\n10 · Gandhi\n\n\n“The future depends on what you do today.”\n\n\nMeaning: Tomorrow is not created someday—it is created tonight.\n\n\nWhy it fits you: Your daily study and writing routines are already funding your future self."
+  },
+  {
+    "objectID": "dailythinking.html#section",
+    "href": "dailythinking.html#section",
+    "title": "daily thinking",
+    "section": "1",
+    "text": "1\n“Action is the foundational key to all success.” — Picasso\n의미: 행동이 모든 성공의 출발점\n이유: 당신이 지속적으로 “행동이 말보다 앞서야 한다”는 가치를 추구."
+  },
+  {
+    "objectID": "dailythinking.html#section-1",
+    "href": "dailythinking.html#section-1",
+    "title": "daily thinking",
+    "section": "2",
+    "text": "2\n“Well done is better than well said.” — Benjamin Franklin\n의미: 잘 해낸 일이 잘 말한 것보다 낫다\n이유: ’말뿐인 삶을 거부하고 행동을 택하겠다’는 당신의 방향성과 일치."
+  },
+  {
+    "objectID": "dailythinking.html#section-2",
+    "href": "dailythinking.html#section-2",
+    "title": "daily thinking",
+    "section": "3",
+    "text": "3\n“We are what we repeatedly do. Excellence, then, is not an act but a habit.” — Aristotle\n의미: 반복이 정체성을 만든다\n이유: 교육·출판·글쓰기에서 장기적 루틴을 중요하게 여김."
+  },
+  {
+    "objectID": "dailythinking.html#section-3",
+    "href": "dailythinking.html#section-3",
+    "title": "daily thinking",
+    "section": "4",
+    "text": "4\n“Creativity takes courage.” — Henri Matisse\n의미: 창의성에는 용기가 필요\n이유: 시·에세이·교재 제작 등 창작 활동의 핵심 태도 반영."
+  },
+  {
+    "objectID": "dailythinking.html#section-4",
+    "href": "dailythinking.html#section-4",
+    "title": "daily thinking",
+    "section": "5",
+    "text": "5\n“Becoming is better than being.” — Carol Dweck\n의미: 완성이 아니라 성장 과정 자체가 더 중요\n이유: 끊임없는 자기 성찰과 ’성장 서사’를 중시하는 당신의 태도와 일치."
+  },
+  {
+    "objectID": "dailythinking.html#section-5",
+    "href": "dailythinking.html#section-5",
+    "title": "daily thinking",
+    "section": "6",
+    "text": "6\n“To teach is to learn twice.” — Joseph Joubert\n의미: 가르치는 것은 두 번 배우는 일\n이유: 학생·강사 두 역할을 모두 하는 당신에게 최적."
+  },
+  {
+    "objectID": "dailythinking.html#section-6",
+    "href": "dailythinking.html#section-6",
+    "title": "daily thinking",
+    "section": "7",
+    "text": "7\n“Clarity is the courage to be understood.” — Unknown\n의미: 명료함은 이해받을 용기다\n이유: 당신의 글쓰기·교육 자료에서 항상 ’명확한 구조’를 추구."
+  },
+  {
+    "objectID": "dailythinking.html#section-7",
+    "href": "dailythinking.html#section-7",
+    "title": "daily thinking",
+    "section": "8",
+    "text": "8\n“You become what you think about.” — Earl Nightingale\n의미: 사고가 정체성을 결정\n이유: 자기분석·MBTI·내면 구조 탐색 등을 자주 요청하는 성향 반영."
+  },
+  {
+    "objectID": "dailythinking.html#section-8",
+    "href": "dailythinking.html#section-8",
+    "title": "daily thinking",
+    "section": "9",
+    "text": "9\n“Great things are done by a series of small things brought together.” — Van Gogh\n의미: 큰 성취는 작은 조각들의 모음\n이유: 문법표·청크·콘텐츠 제작 등 세밀한 축적형 작업에 적합."
+  },
+  {
+    "objectID": "dailythinking.html#section-9",
+    "href": "dailythinking.html#section-9",
+    "title": "daily thinking",
+    "section": "10",
+    "text": "10\n“The future depends on what you do today.” — Gandhi\n의미: 오늘의 행동이 미래를 결정\n이유: 매일의 공부·기록·창작 루틴을 중요시하는 당신의 생활 방식에 맞음."
   }
 ]
