@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "☀️\n\n\n\nHI, I’M SEOYUN\n\n\nA morning-sunlight kind of person\n\n\nI don’t want to live on words that float in the air —  \nI want &lt;b&gt;action&lt;/b&gt; to touch the ground first.\n\n\n&lt;div class=\"about-pill\"&gt;📚 학생 &amp; 강사&lt;/div&gt;\n&lt;div class=\"about-pill\"&gt;✍ 글과 언어를 사랑하는 사람&lt;/div&gt;\n&lt;div class=\"about-pill\"&gt;🧠 깊게 파고드는 타입&lt;/div&gt;\n&lt;div class=\"about-pill\"&gt;🌅 “하루를 잘 시작하고 싶은 사람”&lt;/div&gt;\n\n\n\n::: section-title\nWHO I AM\n:::\n\n::: about-grid\n\n\n&lt;span class=\"about-card-emoji\"&gt;🧑‍🏫&lt;/span&gt;\n&lt;span&gt;Teacher mode&lt;/span&gt;\n\n\nI love breaking down hard things into clear, simple steps.  \nMy favorite moment is when a student says, “아, 이제 진짜 이해됐어요.”\n\n\n\n\n&lt;span class=\"about-card-emoji\"&gt;📖&lt;/span&gt;\n&lt;span&gt;Learner mode&lt;/span&gt;\n\n\nI don’t mind going slow, as long as I’m going deep.  \nR, Quarto, linguistics, English, writing — all of them are part of my long game.\n\n\n\n\n&lt;span class=\"about-card-emoji\"&gt;✨&lt;/span&gt;\n&lt;span&gt;Writer mode&lt;/span&gt;\n\n\nI write to organize my mind, to remember tiny feelings,  \nand to leave a soft trace of myself in other people’s days.\n\n\n:::\n\nWHAT I CARE ABOUT\n\n\n\n\n&lt;span class=\"about-card-emoji\"&gt;⚡&lt;/span&gt;\n&lt;span&gt;Action over aesthetics&lt;/span&gt;\n\n\nPretty plans are nice, but I care more about what actually gets done today.  \nEven one small line of code or one clean sentence is progress.\n\n\n\n\n&lt;span class=\"about-card-emoji\"&gt;🌱&lt;/span&gt;\n&lt;span&gt;Slow, bright growth&lt;/span&gt;\n\n\nI like growth that feels honest: a little slower, a lot deeper,  \nand always aligned with who I really am.\n\n\n\n\n&lt;span class=\"about-card-emoji\"&gt;🤍&lt;/span&gt;\n&lt;span&gt;Gentle but sharp&lt;/span&gt;\n\n\nMy ideal vibe: 마음은 따뜻하게, 생각은 날카롭게.  \nI want the people around me to feel both safe and challenged in a good way.\n\n\n\n\n\nTODAY’S QUESTION\n\n\nHow will the day flow for me today —\nand what is one small action that will make future Seoyun quietly proud?\n\n\n\n☀️ If you’re reading this, I hope your day feels a little more like warm sunlight than cold fluorescent light."
+    "text": "☀️\n\n\n\nHI, I’M SEOYUN\n\n\nA morning-sunlight kind of person\n\n\nI don’t want to live on words that float in the air —  \nI want action to touch the ground first.\n\n\n\n📚 학생 & 강사\n\n\n✍ 글과 언어를 사랑하는 사람\n\n\n🧠 깊게 파고드는 타입\n\n\n🌅 “하루를 잘 시작하고 싶은 사람”\n\n\n\n\nWHO I AM\n\n\n\n\n🧑‍🏫\n\n\nI love breaking down hard things into clear, simple steps.\nMy favorite moment is when a student says, “아, 이제 진짜 이해됐어요.”\n\n\n\n\n📖 Learner mode\n\n\nI don’t mind going slow, as long as I’m going deep.\nR, Quarto, linguistics, English, writing — all of them are part of my long game.\n\n\n\n\n✨\n\n\nI write to organize my mind, to remember tiny feelings,\nand to leave a soft trace of myself in other people’s days. ```\n\n\n\n\nWHAT I CARE ABOUT\n\n\n\n\n⚡ Action over aesthetics\n\n\nPretty plans are nice, but I care more about what actually gets done today.\nEven one small line of code or one clean sentence is progress.\n\n\n\n\n🌱 Slow, bright growth\n\n\nI like growth that feels honest: a little slower, a lot deeper,\nand always aligned with who I really am.\n\n\n\n\n🤍 Gentle but sharp\n\n\nMy ideal vibe: 마음은 따뜻하게, 생각은 날카롭게.\nI want the people around me to feel both safe and challenged in a good way.\n\n\n\n\n\nTODAY’S QUESTION\n\n\nHow will the day flow for me today —\nand what is one small action that will make future Seoyun quietly proud?\n\n\n\n☀️ If you’re reading this, I hope your day feels a little more like warm sunlight than cold fluorescent light."
   },
   {
     "objectID": "lm.html",
     "href": "lm.html",
     "title": "Jane Austen 스타일 분석",
     "section": "",
-    "text": "Jane Austen의 글은 N-gram 모델로 분석하면서, 우리는 언어가 반복의 규칙을 따른다는 것을 배웠다. 특히 “I must confess”, “It is certain” 같은 표현이 자주 등장했는데, 이는 감정의 명료한 표현이나 자기 주장을 나타낼 때 쓰이는 고유한 스타일이다."
+    "text": "Austen Lab\n    \n      Learned\n      Preprocess\n      N-gram\n      Prob\n      Generate\n      Insights\n    \n    \n      Contrast\n      A+"
   },
   {
     "objectID": "lm.html#section",
@@ -205,7 +205,7 @@
   {
     "objectID": "lm.html#footnotes",
     "href": "lm.html#footnotes",
-    "title": "Seoyun's World // Action",
+    "title": "Jane Austen 스타일 분석",
     "section": "Footnotes",
     "text": "Footnotes\n\n\n0-9↩︎"
   },
@@ -228,28 +228,28 @@
     "href": "lm.html#n-gram-모델을-통해-배운-점",
     "title": "Jane Austen 스타일 분석",
     "section": "",
-    "text": "Jane Austen의 글은 N-gram 모델로 분석하면서, 우리는 언어가 반복의 규칙을 따른다는 것을 배웠다. 특히 “I must confess”, “It is certain” 같은 표현이 자주 등장했는데, 이는 감정의 명료한 표현이나 자기 주장을 나타낼 때 쓰이는 고유한 스타일이다."
+    "text": "Jane Austen의 글은 N-gram 모델로 분석하면서, 우리는 언어가 반복의 규칙을 따른다는 것을 배웠다. 특히 “I must confess”, “It is certain” 같은 표현이 자주 등장했는데, 이는 감정의 명료한 표현이나 자기 주장을 나타낼 때 쓰이는 고유한 스타일이다.\n{r setup, include=FALSE} library(janeaustenr) library(tidytext) library(tidyverse) library(ngram)"
   },
   {
     "objectID": "lm.html#데이터-전처리-austen-문장의-구조화",
     "href": "lm.html#데이터-전처리-austen-문장의-구조화",
     "title": "Jane Austen 스타일 분석",
     "section": "데이터 전처리: Austen 문장의 구조화",
-    "text": "데이터 전처리: Austen 문장의 구조화\n\nausten &lt;- austen_books() %&gt;%\n  group_by(book) %&gt;%\n  mutate(chapter = cumsum(str_detect(text, regex(\"^chapter [\\\\divxlc]\", ignore_case = TRUE)))) %&gt;%\n  ungroup() %&gt;%\n  filter(!str_detect(text, \"^\\\\s*$\")) %&gt;%\n  filter(chapter != 0) %&gt;%\n  filter(!str_detect(text, \"^((?i)CHAPTER\\\\s+[0-9IVXLCDM]+)$\")) %&gt;%\n  mutate(text = gsub(\"[[:punct:]]\", \"\", text))"
+    "text": "데이터 전처리: Austen 문장의 구조화\n{r} austen &lt;- austen_books() %&gt;% group_by(book) %&gt;% mutate(chapter = cumsum(str_detect(text, regex(“^chapter [\\divxlc]”, ignore_case = TRUE)))) %&gt;% ungroup() %&gt;% filter(!str_detect(text, “^\\s*\\(\")) %&gt;%\n  filter(chapter != 0) %&gt;%\n  filter(!str_detect(text, \"^((?i)CHAPTER\\\\s+[0-9IVXLCDM]+)\\)“)) %&gt;% mutate(text = gsub(”[[:punct:]]“,”“, text))"
   },
   {
     "objectID": "lm.html#오스틴-문체의-패턴적-특징",
     "href": "lm.html#오스틴-문체의-패턴적-특징",
     "title": "Jane Austen 스타일 분석",
     "section": "오스틴 문체의 패턴적 특징",
-    "text": "오스틴 문체의 패턴적 특징\nAusten 문장에서 발견된 특징은 다음과 같다:\n\n감정적 어휘의 반복: I must confess, I assure you, with all my heart\n논리적 연결어 선호: therefore, however, nevertheless\n자기 서술 표현 빈도: I must, It is\n\n\nausten_uni &lt;- austen %&gt;%\n  unnest_tokens(output = \"unigram\", input = text, token = \"words\")\n\nausten_bi &lt;- austen %&gt;%\n  unnest_tokens(output = \"bigram\", input = text, token = \"ngrams\", n = 2)\n\nbi_count &lt;- austen_bi %&gt;%\n  count(bigram, name = \"bigram_count\", sort = TRUE) %&gt;%\n  separate(bigram, c(\"w1\", \"w2\"), sep = \" \") %&gt;%\n  filter(if_any(c(w1, w2), ~ !is.na(.))) %&gt;%\n  filter(if_all(c(w1, w2), ~ !str_detect(., \"^[0-9]\")))\n\nbi_probs &lt;- bi_count %&gt;%\n  group_by(w1) %&gt;%\n  mutate(\n    total_after_w1 = sum(bigram_count),\n    probability = bigram_count / total_after_w1\n  ) %&gt;%\n  ungroup() %&gt;%\n  arrange(desc(probability))"
+    "text": "오스틴 문체의 패턴적 특징\n\n  문체 시그니처(관찰)\n  \n    감정적 어휘 반복: I must confess, I assure you, with all my heart\n    논리 연결어 선호: therefore, however, nevertheless\n    자기 서술 표현 빈도: I must, It is"
   },
   {
     "objectID": "lm.html#n-gram-기반-문장-생성-예시",
     "href": "lm.html#n-gram-기반-문장-생성-예시",
     "title": "Jane Austen 스타일 분석",
     "section": "N-gram 기반 문장 생성 예시",
-    "text": "N-gram 기반 문장 생성 예시\n\ngenerate_sentence &lt;- function(bigram_probs, start_word = \"still\", max_len = 15) {\n  sentence &lt;- c(start_word)\n  current_word &lt;- start_word\n\n  for (i in 1:max_len) {\n    candidates &lt;- bigram_probs[bigram_probs$w1 == current_word, ]\n    if (nrow(candidates) == 0) break\n    next_word &lt;- sample(candidates$w2, size = 1, prob = candidates$probability)\n    sentence &lt;- c(sentence, next_word)\n    current_word &lt;- next_word\n  }\n  paste(sentence, collapse = \" \")\n}\n\nset.seed(4567)\ngenerate_sentence(bi_probs, start_word = \"still\", max_len = 15)\n\n[1] \"still it ought to go i shall only as second glance was not as to join\""
+    "text": "N-gram 기반 문장 생성 예시\n{r} generate_sentence &lt;- function(bigram_probs, start_word = “still”, max_len = 15) { sentence &lt;- c(start_word) current_word &lt;- start_word\nfor (i in 1:max_len) { candidates &lt;- bigram_probs[bigram_probs\\(w1 == current_word, ]\n    if (nrow(candidates) == 0) break\n    next_word &lt;- sample(candidates\\)w2, size = 1, prob = candidates$probability) sentence &lt;- c(sentence, next_word) current_word &lt;- next_word } paste(sentence, collapse = ” “) }\nset.seed(4567) generate_sentence(bi_probs, start_word = “still”, max_len = 15)\n\n## Trigram을 통한 더 정교한 생성\n\n{r}\njoined &lt;- paste(austen$text, collapse = \" \")\nausten_tri &lt;- ngram(joined, 3)\n\nset.seed(123)\nbabble(austen_tri, 20)"
   },
   {
     "objectID": "lm.html#trigram을-통한-더-정교한-생성",
@@ -264,5 +264,54 @@
     "title": "Jane Austen 스타일 분석",
     "section": "인사이트 요약",
     "text": "인사이트 요약\n\nJane Austen의 문체는 감성적 균형과 논리적 흐름을 모두 충족하는 특징이 있음\nN-gram 모델을 활용하면 이러한 패턴을 수치화하고 문장 생성에도 응용 가능\n반복된 문장 구조는 단순한 문체가 아니라, 작가의 사고 구조와 가치관을 반영함"
+  },
+  {
+    "objectID": "lm.html#ngram",
+    "href": "lm.html#ngram",
+    "title": "Jane Austen 스타일 분석",
+    "section": "N-gram 계산 (Bigram 빈도)",
+    "text": "N-gram 계산 (Bigram 빈도)\n\nausten_bi &lt;- austen %&gt;%\n  unnest_tokens(output = \"bigram\", input = text, token = \"ngrams\", n = 2)\n\nbi_count &lt;- austen_bi %&gt;%\n  count(bigram, name = \"bigram_count\", sort = TRUE) %&gt;%\n  separate(bigram, c(\"w1\", \"w2\"), sep = \" \", fill = \"right\") %&gt;%\n  filter(!is.na(w1), !is.na(w2)) %&gt;%                         # NA 제거\n  filter(!str_detect(w1, \"^[0-9]\"), !str_detect(w2, \"^[0-9]\"))  # 숫자 토큰 제거(원하면 삭제)\n\n\nTop 20 Bigram (빈도)\n\ntop_bi &lt;- bi_count %&gt;% slice_max(order_by = bigram_count, n = 20)\n\nif (requireNamespace(\"DT\", quietly = TRUE)) {\n  DT::datatable(\n    top_bi %&gt;% select(w1, w2, bigram_count),\n    rownames = FALSE,\n    options = list(pageLength = 10, autoWidth = TRUE)\n  )\n} else {\n  top_bi %&gt;% select(w1, w2, bigram_count) %&gt;% knitr::kable()\n}\n\n\n\n\n\n\n\nTop 20 Bigram 그래프\n\ntop_bi %&gt;%\n  mutate(pair = paste(w1, w2)) %&gt;%\n  ggplot(aes(x = reorder(pair, bigram_count), y = bigram_count)) +\n  geom_col() +\n  coord_flip() +\n  labs(x = NULL, y = \"count\", title = \"Top 20 bigrams (frequency)\")"
+  },
+  {
+    "objectID": "lm.html#learned",
+    "href": "lm.html#learned",
+    "title": "Jane Austen 스타일 분석",
+    "section": "N-gram 모델을 통해 배운 점",
+    "text": "N-gram 모델을 통해 배운 점\nJane Austen의 글은 N-gram으로 분석하면 언어가 반복(습관)의 규칙을 따른다는 점이 드러난다.\n특히 \"I must confess\", \"It is certain\" 같은 표현은 감정의 명료화 혹은 자기 주장 강화에 자주 쓰이는 패턴으로 해석할 수 있다."
+  },
+  {
+    "objectID": "lm.html#preprocess",
+    "href": "lm.html#preprocess",
+    "title": "Jane Austen 스타일 분석",
+    "section": "데이터 전처리: Austen 문장의 구조화",
+    "text": "데이터 전처리: Austen 문장의 구조화\n\nausten &lt;- austen_books() %&gt;%\n  group_by(book) %&gt;%\n  mutate(\n    # chapter 1 / chapter iv 등 챕터 헤더 감지\n    chapter = cumsum(str_detect(text, regex(\"^chapter\\\\s+(\\\\d+|[ivxlcdm]+)\\\\b\", ignore_case = TRUE)))\n  ) %&gt;%\n  ungroup() %&gt;%\n  filter(!str_detect(text, \"^\\\\s*$\")) %&gt;%  # 빈 줄 제거\n  filter(chapter != 0) %&gt;%                 # 챕터 전(머리말) 제거\n  filter(!str_detect(text, regex(\"^chapter\\\\s+(\\\\d+|[ivxlcdm]+)\\\\s*$\", ignore_case = TRUE))) %&gt;% # 헤더 행 제거\n  mutate(text = str_replace_all(text, \"[[:punct:]]\", \"\")) %&gt;%  # 구두점 제거\n  mutate(text = str_squish(text))                              # 공백 정리\n\n\n# 전처리 결과 간단 확인\nausten %&gt;% count(book, sort=TRUE) %&gt;% head(6)\n\n# A tibble: 6 × 2\n  book                    n\n  &lt;fct&gt;               &lt;int&gt;\n1 Emma                13625\n2 Mansfield Park      13359\n3 Pride & Prejudice   10658\n4 Sense & Sensibility 10543\n5 Persuasion           7182\n6 Northanger Abbey     6612"
+  },
+  {
+    "objectID": "lm.html#prob",
+    "href": "lm.html#prob",
+    "title": "Jane Austen 스타일 분석",
+    "section": "Bigram 확률 계산 (조건부 확률 P(w2|w1))",
+    "text": "Bigram 확률 계산 (조건부 확률 P(w2|w1))\n정의:\n- count(w1,w2) = bigram 빈도\n- P(w2|w1) = count(w1,w2) / sum_{w2}(count(w1,*))\n\nbi_probs &lt;- bi_count %&gt;%\n  group_by(w1) %&gt;%\n  mutate(\n    total_after_w1 = sum(bigram_count),\n    probability = bigram_count / total_after_w1\n  ) %&gt;%\n  ungroup() %&gt;%\n  arrange(desc(probability))\n\n\n확률이 큰 전이(Transition) Top 30\n\n# bi_probs가 없으면(청크를 따로 실행했으면) 여기서 자동 생성\n\nif (!exists(\"bi_probs\")) {\n\n# (교체본) 백슬래시 이슈 없는 raw string 버전\nchapter_pat &lt;- stringr::regex(r\"(^chapter\\s+(\\d+|[ivxlcdm]+)\\b)\", ignore_case = TRUE)\nchapter_line_pat &lt;- stringr::regex(r\"(^chapter\\s+(\\d+|[ivxlcdm]+)\\s*$)\", ignore_case = TRUE)\nblank_pat &lt;- r\"(^\\s*$)\"\n\nausten &lt;- janeaustenr::austen_books() %&gt;%\n  dplyr::group_by(book) %&gt;%\n  dplyr::mutate(chapter = cumsum(stringr::str_detect(text, chapter_pat))) %&gt;%\n  dplyr::ungroup() %&gt;%\n  dplyr::filter(!stringr::str_detect(text, blank_pat)) %&gt;%      # 빈 줄 제거\n  dplyr::filter(chapter != 0) %&gt;%                               # 챕터 전 제거\n  dplyr::filter(!stringr::str_detect(text, chapter_line_pat)) %&gt;% # 챕터 헤더 행 제거\n  dplyr::mutate(text = stringr::str_replace_all(text, \"[[:punct:]]\", \"\")) %&gt;%\n  dplyr::mutate(text = stringr::str_squish(text))\n\n\nif (!exists(\"bi_count\")) {\nausten_bi &lt;- austen %&gt;%\nunnest_tokens(output = \"bigram\", input = text, token = \"ngrams\", n = 2)\n\nbi_count &lt;- austen_bi %&gt;%\n  count(bigram, name = \"bigram_count\", sort = TRUE) %&gt;%\n  separate(bigram, c(\"w1\", \"w2\"), sep = \" \", fill = \"right\") %&gt;%\n  filter(!is.na(w1), !is.na(w2)) %&gt;%\n  filter(!str_detect(w1, \"^[0-9]\"), !str_detect(w2, \"^[0-9]\"))\n\n}\n\nbi_probs &lt;- bi_count %&gt;%\ngroup_by(w1) %&gt;%\nmutate(\ntotal_after_w1 = sum(bigram_count),\nprobability = bigram_count / total_after_w1\n) %&gt;%\nungroup() %&gt;%\narrange(desc(probability))\n}\n\ntop_prob &lt;- bi_probs %&gt;% slice_max(order_by = probability, n = 30)\n\nif (requireNamespace(\"DT\", quietly = TRUE)) {\nDT::datatable(\ntop_prob %&gt;% select(w1, w2, bigram_count, total_after_w1, probability),\nrownames = FALSE,\noptions = list(pageLength = 10, autoWidth = TRUE)\n)\n} else {\ntop_prob %&gt;%\nselect(w1, w2, bigram_count, total_after_w1, probability) %&gt;%\nknitr::kable(digits = 4)\n}\n\n\n\n\n\n\n\n특정 시작단어의 “다음 단어 분포” 예시 (w1 = “i”, “she”, “it”)\n\nshow_next &lt;- function(word, n = 12) {\n  bi_probs %&gt;%\n    filter(w1 == word) %&gt;%\n    slice_max(order_by = probability, n = n) %&gt;%\n    select(w1, w2, bigram_count, probability)\n}\n\nlist(\n  i   = show_next(\"i\", 12),\n  she = show_next(\"she\", 12),\n  it  = show_next(\"it\", 12)\n)\n\n$i\n# A tibble: 12 × 4\n   w1    w2     bigram_count probability\n   &lt;chr&gt; &lt;chr&gt;         &lt;int&gt;       &lt;dbl&gt;\n 1 i     am             1437      0.131 \n 2 i     have            968      0.0882\n 3 i     do              539      0.0491\n 4 i     shall           402      0.0366\n 5 i     should          380      0.0346\n 6 i     was             380      0.0346\n 7 i     had             346      0.0315\n 8 i     think           321      0.0292\n 9 i     can             300      0.0273\n10 i     could           289      0.0263\n11 i     will            262      0.0239\n12 i     know            260      0.0237\n\n$she\n# A tibble: 12 × 4\n   w1    w2     bigram_count probability\n   &lt;chr&gt; &lt;chr&gt;         &lt;int&gt;       &lt;dbl&gt;\n 1 she   had            1391      0.149 \n 2 she   was            1297      0.139 \n 3 she   could           757      0.0811\n 4 she   would           349      0.0374\n 5 she   is              300      0.0321\n 6 she   did             209      0.0224\n 7 she   felt            176      0.0188\n 8 she   must            167      0.0179\n 9 she   might           164      0.0176\n10 she   has             139      0.0149\n11 she   saw             125      0.0134\n12 she   should          123      0.0132\n\n$it\n# A tibble: 12 × 4\n   w1    w2    bigram_count probability\n   &lt;chr&gt; &lt;chr&gt;        &lt;int&gt;       &lt;dbl&gt;\n 1 it    was           1637      0.181 \n 2 it    is            1079      0.119 \n 3 it    would          440      0.0485\n 4 it    to             272      0.0300\n 5 it    and            240      0.0265\n 6 it    will           217      0.0239\n 7 it    had            212      0.0234\n 8 it    must           157      0.0173\n 9 it    as             139      0.0153\n10 it    i              138      0.0152\n11 it    but            129      0.0142\n12 it    all            128      0.0141"
+  },
+  {
+    "objectID": "lm.html#generate",
+    "href": "lm.html#generate",
+    "title": "Jane Austen 스타일 분석",
+    "section": "N-gram 기반 문장 생성 (Bigram 샘플링)",
+    "text": "N-gram 기반 문장 생성 (Bigram 샘플링)\n\ngenerate_sentence &lt;- function(bigram_probs, start_word = \"still\", max_len = 15) {\n  sentence &lt;- c(start_word)\n  current_word &lt;- start_word\n\n  for (i in seq_len(max_len)) {\n    candidates &lt;- bigram_probs[bigram_probs$w1 == current_word, ]\n    if (nrow(candidates) == 0) break\n\n    candidates &lt;- candidates[!is.na(candidates$probability) & candidates$probability &gt; 0, ]\n    if (nrow(candidates) == 0) break\n\n    next_word &lt;- sample(candidates$w2, size = 1, prob = candidates$probability)\n    sentence &lt;- c(sentence, next_word)\n    current_word &lt;- next_word\n  }\n\n  paste(sentence, collapse = \" \")\n}\n\nset.seed(4567)\ntibble(\n  start = c(\"still\", \"she\", \"i\", \"it\", \"however\"),\n  generated = c(\n    generate_sentence(bi_probs, \"still\", 18),\n    generate_sentence(bi_probs, \"she\", 18),\n    generate_sentence(bi_probs, \"i\", 18),\n    generate_sentence(bi_probs, \"it\", 18),\n    generate_sentence(bi_probs, \"however\", 18)\n  )\n)\n\n# A tibble: 5 × 2\n  start   generated                                                             \n  &lt;chr&gt;   &lt;chr&gt;                                                                 \n1 still   still it ought to go i shall only as second glance was not as to join…\n2 she     she grieved my bonnet in hers offended him a seat with mr martinhe mi…\n3 i       i am sure i am to any part of him on business i for them purposely to…\n4 it      it may long while my opinion was uniform remained a moment he only lo…\n5 however however mrs smiths intimacy subsisting between edward himself to all …"
+  },
+  {
+    "objectID": "lm.html#trigram-생성-ngrambabble",
+    "href": "lm.html#trigram-생성-ngrambabble",
+    "title": "Jane Austen 스타일 분석",
+    "section": "Trigram 생성 (ngram::babble)",
+    "text": "Trigram 생성 (ngram::babble)\n\njoined &lt;- paste(austen$text, collapse = \" \")\nausten_tri &lt;- ngram(joined, 3)\n\nset.seed(123)\nbabble(austen_tri, 20)\n\n[1] \"party How they were all beneath his roof and while Louisa under Mrs Harvilles direction was conveyed up stairs and \""
+  },
+  {
+    "objectID": "lm.html#insights",
+    "href": "lm.html#insights",
+    "title": "Jane Austen 스타일 분석",
+    "section": "인사이트 요약",
+    "text": "인사이트 요약\n\n  \n    문체는 “반복”의 누적\n    반복된 구조는 장식이 아니라, 사고 흐름을 고정하는 습관이다.\n  \n  \n    확률은 “다음 단어의 기대”\n    P(w2|w1)은 특정 단어 뒤에 어떤 말버릇이 오는지(전형성)를 정량화한다."
   }
 ]
